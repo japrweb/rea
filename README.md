@@ -1,4 +1,4 @@
-# Real Estate App
+# Real Estate App 
  Real Estate Application based on the original Project by the JavaScript Mastery team. Original README [here](https://github.com/adrianhajdin/projects_realestate)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
